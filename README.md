@@ -15,7 +15,7 @@ This variable is used to display the balances that is if we add an address to it
 The mint function is used to add new tokens to the total supply. It has two parameters address and value.
 # Burn function 
 This function is used to remove the tokens from the total supply. Also, an if function is provided in order to avoid burning when tokens are more than the total supply.
-# Code submitted by Manu Mathew
+# Code submitted by Bestin Thomas T
 The code starts with assigning the name and abbreviation of the token using a string variable. The  name is token name is  'Sixers' and abbreviation as 'six'
 # Mapping variable
 The mapping of the variable is conducted in the second part of the program. This simply means that if the address is given by any user it should display back the balance amount of tokens.
